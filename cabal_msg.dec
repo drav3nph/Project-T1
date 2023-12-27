@@ -362,10 +362,10 @@
 		<msg id="skill0044" cont="Twin-Moon Slash" />
 		<msg id="skill0045" cont="Shield Ray" />
 		<msg id="skill0046" cont="Abyssal Crystal" />
-		<msg id="skill0047" cont="Wings Buff (1-5)" />
-		<msg id="skill0048" cont="Wings Buff (5-10)" />
-		<msg id="skill0049" cont="Wings Buff (10-15)" />
-		<msg id="skill0050" cont="Wings Buff (15-20)" />
+		<msg id="skill0047" cont="Rhino Toughness"/>
+		<msg id="skill0048" cont="Frenzy"/>
+		<msg id="skill0049" cont="Doom's Blade"/>
+		<msg id="skill0050" cont="Vampiric Movement"/>
 		<msg id="skill0051" cont="Terra Break" />
 		<msg id="skill0052" cont="Blade Cry" />
 		<msg id="skill0053" cont="Shield Explosion" />
@@ -559,7 +559,7 @@
 		<msg id="skill0241" cont="Lower Defense" />
 		<msg id="skill0242" cont="Supreme Sharpness" />
 		<msg id="skill0243" cont="Mana Condense" />
-		<msg id="skill0244" cont="?????????-Unknown" />
+		<msg id="skill0244" cont="Force Unleashing"/>
 		<msg id="skill0245" cont="Greater Heal" />
 		<msg id="skill0246" cont="Vital Bless" />
 		<msg id="skill0247" cont="Mass Healing" />
@@ -596,12 +596,12 @@
 		<msg id="skill0278" cont="Earth Guard" />
 		<msg id="skill0279" cont="Wind Movement" />
 		<msg id="skill0280" cont="Aqua Vitality" />
-		<msg id="skill0281" cont="FA Cure" />
-		<msg id="skill0282" cont="FA Buff 1" />
-		<msg id="skill0283" cont="FS Buff 1" />
-		<msg id="skill0284" cont="FS Buff 2" />
-		<msg id="skill0285" cont="?????????-Unknown" />
-		<msg id="skill0286" cont="?????????-Unknown" />
+		<msg id="skill0281" cont="Warrior Mastery"/>
+		<msg id="skill0282" cont="Blader Mastery"/>
+		<msg id="skill0283" cont="Wizard Mastery"/>
+		<msg id="skill0284" cont="Force Archer Mastery"/>
+		<msg id="skill0285" cont="Force Shielder Mastery"/>
+		<msg id="skill0286" cont="Force Blader Mastery"/>
 		<msg id="skill0287" cont="Magic Control" />
 		<msg id="skill0288" cont="Spirit Shield" />
 		<msg id="skill0289" cont="Quick Move" />
@@ -611,9 +611,9 @@
 		<msg id="skill0293" cont="Shadow Step" />
 		<msg id="skill0294" cont="Art of Rage" />
 		<msg id="skill0295" cont="Piercing Shield" />
-		<msg id="skill0296" cont="Honor Ranking Buster" />
-		<msg id="skill0297" cont="Honorable Medal Gold" />
-		<msg id="skill0298" cont="?????????-Unknown" />
+		<msg id="skill0296" cont="Force Shell"/>
+		<msg id="skill0297" cont="Sharp Instinct"/>
+		<msg id="skill0298" cont="Spirit Walk"/>
 		<msg id="skill0299" cont="Focus" />
 		<msg id="skill0300" cont="Attack BM2 GL 1" />
 		<msg id="skill0301" cont="Attack BM2 GL 2" />
@@ -622,14 +622,14 @@
 		<msg id="skill0304" cont="Gunner Battle Mode 2 Attack" />
 		<msg id="skill0305" cont="Infighter" />
 		<msg id="skill0306" cont="Death Scyther" />
-		<msg id="skill0307" cont="Change Force (Magic)" />
-		<msg id="skill0308" cont="Change Force (Sword)" />
-		<msg id="skill0309" cont="?????????-Unknown" />
+		<msg id="skill0307" cont="Shield Castle"/>
+		<msg id="skill0308" cont="Primitive Defense"/>
+		<msg id="skill0309" cont="Elemental Discharge"/>
 		<msg id="skill0310" cont="Ranger" />
 		<msg id="skill0311" cont="Heavy Launcher" />
 		<msg id="skill0312" cont="Death Scyther Guillotine" />
 		<msg id="skill0313" cont="Surface Impact" />
-		<msg id="skill0314" cont="?????????-Unknown" />
+		<msg id="skill0314" cont="Elemental Barrier"/>
 		<msg id="skill0315" cont="Gladiator Mastery" />
 		<msg id="skill0316" cont="Mortal Combat" />
 		<msg id="skill0317" cont="Art of Desperado" />
@@ -885,10 +885,10 @@
 		<msg id="skill_desc0044" cont="Empunha duas espadas e, com o poder das luas g meas mortais, atinge violentamente seu alvo " />
 		<msg id="skill_desc0045" cont="Cria uma for a destrutiva, usando um escudo que perfura seu alvo " />
 		<msg id="skill_desc0046" cont="Entrega uma for a reun da e concentrada ao alvo " />
-		<msg id="skill_desc0047" cont="" />
-		<msg id="skill_desc0048" cont="" />
-		<msg id="skill_desc0049" cont="" />
-		<msg id="skill_desc0050" cont="" />
+		<msg id="skill_desc0047" cont="Gives a beast's stamina."/>
+		<msg id="skill_desc0048" cont="Indulged in madness, ignoring defense and increasing attack power."/>
+		<msg id="skill_desc0049" cont="Increases the power of destruction in the sword to increase the attack power."/>
+		<msg id="skill_desc0050" cont="Increases excellent evasion and recovery."/>
 		<msg id="skill_desc0051" cont="Causa uma perigosa explos o, colidindo a espada no ch o " />
 		<msg id="skill_desc0052" cont="Cria uma onda de shoques rodopiando a espada, com grandes poderes " />
 		<msg id="skill_desc0053" cont="Transfere for as amplificadas do escudo para a espada e, ent o, atinge impiedosamente seu inimigo. " />
@@ -1042,7 +1042,7 @@
 		<msg id="skill_desc0241" cont="Diminue a capacidade de defesa de um inimig " />
 		<msg id="skill_desc0242" cont="$47#This is the union of the buffs:_- Sharpness_- Vital Force_- Mana Condense" />
 		<msg id="skill_desc0243" cont="Aumenta o ataque m gico " />
-		<msg id="skill_desc0244" cont="Aumenta a capacidade m xima de mana " />
+		<msg id="skill_desc0244" cont="Remove the limit of force ability to increase attack power."/>
 		<msg id="skill_desc0245" cont="Restaura grande quantidade de pontos de vida " />
 		<msg id="skill_desc0246" cont="Aumenta a taxa de recupera  o de pontos de vida, por um curto per odo de tempo " />
 		<msg id="skill_desc0247" cont="Restaura pontos de vida de um membro do grupo " />
@@ -1079,15 +1079,20 @@
 		<msg id="skill_desc0278" cont="0" />
 		<msg id="skill_desc0279" cont="0" />
 		<msg id="skill_desc0280" cont="0" />
-		<msg id="skill_desc0281" cont="0" />
-		<msg id="skill_desc0282" cont="0" />
-		<msg id="skill_desc0283" cont="0" />
-		<msg id="skill_desc0284" cont="0" />
+		<msg id="skill_desc0281" cont="Improve a Warrior's abilities."/>
+		<msg id="skill_desc0282" cont="Improve a Blader's abilities."/>
+		<msg id="skill_desc0283" cont="Improve a Wizard's abilities."/>
+		<msg id="skill_desc0284" cont="Improve a Force Archer's abilities."/>
+		<msg id="skill_desc0285" cont="Improve a Force Shielder's abilities."/>
+		<msg id="skill_desc0286" cont="Improve a Force Blader's abilities."/>
 		<msg id="skill_desc0287" cont="Aumento de Attack M gico " />
 		<msg id="skill_desc0288" cont="Crie um Escudo Astral para repelir dano " />
 		<msg id="skill_desc0289" cont="Mova-se r pido para desviar dos ataques inimigos " />
 		<msg id="skill_desc0291" cont="Usa poder m gico para aumentar a habilidade de perfura  o " />
 		<msg id="skill_desc0292" cont="Fortalece o corpo com o poder dos elementos " />
+		<msg id="skill_desc0296" cont="Gets a shield that blocks enemy attacks with the power of the Force."/>
+		<msg id="skill_desc0297" cont="Exercise intuition to increase attack power."/>
+		<msg id="skill_desc0298" cont="Haunted and safe from all attacks."/>
 		<msg id="skill_desc0299" cont="Se concentrar para aumentar a taxa de sucesso de magia " />
 		<msg id="skill_desc0300" cont="Aumenta a capacidade m xima de vida atrav s de uma prepara  o f sica " />
 		<msg id="skill_desc0301" cont="Aumenta a capacidade m xima de mana atrav s de uma medita  o espiritual " />
@@ -1096,13 +1101,14 @@
 		<msg id="skill_desc0304" cont="Aumenta o ataque m gico, atrav s da pr tica da administra  o da for a " />
 		<msg id="skill_desc0305" cont="Aumenta a taxa de defesa " />
 		<msg id="skill_desc0306" cont="Aumenta a taxa de ataque " />
-		<msg id="skill_desc0307" cont="Transfere habilidade EXP para pontos de habilidade m gica " />
-		<msg id="skill_desc0308" cont="Transfere habilidade EXP para pontos de habilidade com espada " />
+		<msg id="skill_desc0307" cont="Gain strong defense like a castle."/>
+		<msg id="skill_desc0308" cont="Increases attack power for active defense."/>
+		<msg id="skill_desc0309" cont="Unleashes elemental power to increase attack power."/>
 		<msg id="skill_desc0310" cont="Aumenta a taxa de ataque com os olhos e mente " />
 		<msg id="skill_desc0311" cont="Aumenta a taxa de defesa com um senso honr vel " />
 		<msg id="skill_desc0312" cont="Aumenta o ataque m gico atrav s da expans o do controle de suas for as " />
 		<msg id="skill_desc0313" cont="Aumenta o ataque com a efici ncia de sua precis o " />
-		<msg id="skill_desc0314" cont="Aumenta a defesa , absorvendo uma quantidade parcial de dano recebido " />
+		<msg id="skill_desc0314" cont="Acquires a defense effect based on the element's attribute."/>
 		<msg id="skill_desc0330" cont="Visualiza uma arma usando a For a." />
 		<msg id="skill_desc0331" cont="Visualiza um arco m gico, usando a for a arcana do usu rio " />
 		<msg id="skill_desc0332" cont="Visualiza um escudo m gico, usando a for a arcana do usu rio " />
@@ -24897,12 +24903,12 @@
 		<msg id="item2382" cont="Aura Transmuter (Re-Pack Aura)" />
 		<msg id="item2383" cont="Japanese Chaos Lamp (Exclusive)" />
 		<msg id="item2384" cont="Chaos Infinity Entry Item" />
-		<msg id="item2385" cont="[Empty Box] - Shineguard Cube (WA)" />
-		<msg id="item2386" cont="[Empty Box] - Dragonium Cube (WA)" />
-		<msg id="item2387" cont="[Empty Box] - Mithril Cube (WA)" />
-		<msg id="item2388" cont="[Empty Box] - Mystic Cube (BL)" />
-		<msg id="item2389" cont="[Empty Box] - Dragonium Cube (BL)" />
-		<msg id="item2390" cont="[Empty Box] - Mithril Cube (BL)" />
+		<msg id="item2385" cont="Master's CM Lapis Orb" />
+		<msg id="item2386" cont="Master's CM Lapis Crystal" />
+		<msg id="item2387" cont="Master's CM Osmium Katana" />
+		<msg id="item2388" cont="Master's CM Osmium Blade" />
+		<msg id="item2389" cont="Master's CM Osmium Daikatana" />
+		<msg id="item2390" cont="Master's CM Osmium Great Sword" />
 		<msg id="item2391" cont="[Empty Box] - Mystic Cube (WI)" />
 		<msg id="item2392" cont="[Empty Box] - Dragonium Cube (WI)" />
 		<msg id="item2393" cont="[Empty Box] - Mithril Cube (WI)" />
@@ -25250,30 +25256,30 @@
 		<msg id="item2735" cont="Drei Frame Epaulet Of Fighter" />
 		<msg id="item2736" cont="Drei Frame Epaulet Of Sage" />
 		<msg id="item2737" cont="Upgrade Core (Cube)" />
-		<msg id="item2738" cont="Bluestin Plate (WA)" />
-		<msg id="item2739" cont="Bluestin Plate (FS)" />
-		<msg id="item2740" cont="Bluestin Coat (FB)" />
-		<msg id="item2741" cont="Bluestin Coat (FA)" />
-		<msg id="item2742" cont="Bluestin Suit (BL)" />
-		<msg id="item2743" cont="Bluestin Suit (WI)" />
-		<msg id="item2744" cont="Bluestin Gauntlet (WA)" />
-		<msg id="item2745" cont="Bluestin Gauntlet (FS)" />
-		<msg id="item2746" cont="Bluestin Gloves (FB)" />
-		<msg id="item2747" cont="Bluestin Gloves (FA)" />
-		<msg id="item2748" cont="Bluestin Hands (BL)" />
-		<msg id="item2749" cont="Bluestin Hands (WI)" />
-		<msg id="item2750" cont="Bluestin Greaves (WA)" />
-		<msg id="item2751" cont="Bluestin Greaves (FS)" />
-		<msg id="item2752" cont="Bluestin Boots (FB)" />
-		<msg id="item2753" cont="Bluestin Boots (FA)" />
-		<msg id="item2754" cont="Bluestin Shoes (BL)" />
-		<msg id="item2755" cont="Bluestin Shoes (WI)" />
-		<msg id="item2756" cont="Bluestin Visor (WA)" />
-		<msg id="item2757" cont="Bluestin Visor (FS)" />
-		<msg id="item2758" cont="Bluestin Headgear (FB)" />
-		<msg id="item2759" cont="Bluestin Headgear (FA)" />
-		<msg id="item2760" cont="Bluestin Headpiece (BL)" />
-		<msg id="item2761" cont="Bluestin Headpiece (WI)" />
+		<msg id="item2738" cont="Master's CM Osmium Plate (WA)" />
+		<msg id="item2739" cont="Master's CM Osmium Plate (FS)" />
+		<msg id="item2740" cont="Master's CM Osmium Coat (FB)" />
+		<msg id="item2741" cont="Master's CM Osmium Coat (FA)" />
+		<msg id="item2742" cont="Master's CM Osmium Suit (BL)" />
+		<msg id="item2743" cont="Master's CM Osmium Suit (WI)" />
+		<msg id="item2744" cont="Master's CM Osmium Gauntlet (WA)" />
+		<msg id="item2745" cont="Master's CM Osmium Gauntlet (FS)" />
+		<msg id="item2746" cont="Master's CM Osmium Gloves (FB)" />
+		<msg id="item2747" cont="Master's CM Osmium Gloves (FA)" />
+		<msg id="item2748" cont="Master's CM Osmium Hands (BL)" />
+		<msg id="item2749" cont="Master's CM Osmium Hands (WI)" />
+		<msg id="item2750" cont="Master's CM Osmium Greaves (WA)" />
+		<msg id="item2751" cont="Master's CM Osmium Greaves (FS)" />
+		<msg id="item2752" cont="Master's CM Osmium Boots (FB)" />
+		<msg id="item2753" cont="Master's CM Osmium Boots (FA)" />
+		<msg id="item2754" cont="Master's CM Osmium Shoes (BL)" />
+		<msg id="item2755" cont="Master's CM Osmium Shoes (WI)" />
+		<msg id="item2756" cont="Master's CM Osmium Visor (WA)" />
+		<msg id="item2757" cont="Master's CM Osmium Visor (FS)" />
+		<msg id="item2758" cont="Master's CM Osmium Headgear (FB)" />
+		<msg id="item2759" cont="Master's CM Osmium Headgear (FA)" />
+		<msg id="item2760" cont="Master's CM Osmium Headpiece (BL)" />
+		<msg id="item2761" cont="Master's CM Osmium Headpiece (WI)" />
 		<msg id="item2762" cont="Titanium Plate (WA)" />
 		<msg id="item2763" cont="Titanium Plate (FS)" />
 		<msg id="item2764" cont="Titanium Coat (FB)" />
@@ -25831,12 +25837,12 @@
 		<msg id="item3316" cont="[WING COSTUME] TIER THIRTY EIGHT" />
 		<msg id="item3317" cont="[WING COSTUME] TIER THIRTY NINE" />
 		<msg id="item3318" cont="The Mysterybox"/>
-		<msg id="item3319" cont="Blue Stone (Craft)"/>
-		<msg id="item3320" cont="Blue Stone (Craft)"/>
-		<msg id="item3321" cont="Blue Stone (Craft)"/>
-		<msg id="item3322" cont="Green Stone (Craft)"/>
-		<msg id="item3323" cont="Green Stone (Craft)"/>
-		<msg id="item3324" cont="Green Stone (Craft)"/>
+		<msg id="item3319" cont="Skill Book (Warrior Mastery Lv.1)"/>
+		<msg id="item3320" cont="Skill Book (Blader Mastery Lv.1)"/>
+		<msg id="item3321" cont="Skill Book (Wizard Mastery Lv.1)"/>
+		<msg id="item3322" cont="Skill Book (Force Archer Mastery Lv.1)"/>
+		<msg id="item3323" cont="Skill Book (Force Shielder Mastery Lv.1)"/>
+		<msg id="item3324" cont="Skill Book (Force Blader Mastery Lv.1)"/>
 		<msg id="item3325" cont="Red Stone (Craft)"/>
 		<msg id="item3326" cont="Red Stone (Craft)"/>
 		<msg id="item3327" cont="Red Stone (Craft)" />
@@ -25933,18 +25939,18 @@
 		<msg id="item3418" cont="[Finish] Defensive Earring +8" />
 		<msg id="item3419" cont="[Unique] Bracelet of Sienna" />
 		<msg id="item3420" cont="Rune INT (II) - Bugged" />
-		<msg id="item3421" cont="[Box] - Option Scroll Weapon (Low)"/>
-		<msg id="item3422" cont="[Box] - Option Scroll Weapon (Medium)"/>
-		<msg id="item3423" cont="[Box] - Option Scroll Weapon (High)"/>
-		<msg id="item3424" cont="[Box] - Option Scroll Weapon (Highest)"/>
-		<msg id="item3425" cont="[Box] - Option Scroll Armor (Low)"/>
-		<msg id="item3426" cont="[Box] - Option Scroll Armor (Medium)"/>
-		<msg id="item3427" cont="[Box] - Option Scroll Armor (High)"/>
-		<msg id="item3428" cont="[Box] - Option Scroll Armor (Highest)"/>
-		<msg id="item3429" cont="[Box] - Option Scroll Bike (Low)"/>
-		<msg id="item3430" cont="[Box] - Option Scroll Bike (Medium)"/>
-		<msg id="item3431" cont="[Box] - Option Scroll Bike (High)"/>
-		<msg id="item3432" cont="[Box] - Option Scroll Bike (Highest)"/>
+		<msg id="item3421" cont="Skill Book (Rhino Toughness)"/>
+		<msg id="item3422" cont="Skill Book (Frenzy)"/>
+		<msg id="item3423" cont="Skill Book (Doom's Blade)"/>
+		<msg id="item3424" cont="Skill Book (Vampiric Movement)"/>
+		<msg id="item3425" cont="Skill Book (Force Unleashing)"/>
+		<msg id="item3426" cont="Skill Book (Force Shell)"/>
+		<msg id="item3427" cont="Skill Book (Sharp Instinct)"/>
+		<msg id="item3428" cont="Skill Book (Spirit Walk)"/>
+		<msg id="item3429" cont="Skill Book (Shield Castle)"/>
+		<msg id="item3430" cont="Skill Book (Primitive Defense)"/>
+		<msg id="item3431" cont="Skill Book (Elemental Discharge)"/>
+		<msg id="item3432" cont="Skill Book (Elemental Barrier)"/>
 		<msg id="item3433" cont="Special Force Core (High)"/>
 		<msg id="item3434" cont="Special Force Core (Highest)"/>
 		<msg id="item3435" cont="Special Force Core (Ultimate)"/>
@@ -28922,12 +28928,12 @@
 		<msg id="item_desc2382" cont="" />
 		<msg id="item_desc2383" cont="Japanese Chaos Lamp description"/>
 		<msg id="item_desc2384" cont="" />
-		<msg id="item_desc2385" cont="$37#[STARTING SET]$_Cabal Online: Awakening Starting Set for Warrior_$4#(Right Click to Use)$" />
-		<msg id="item_desc2386" cont="$37#[STARTING SET]$_Cabal Online: Awakening Starting Set for Warrior_$4#(Right Click to Use)$" />
-		<msg id="item_desc2387" cont="$37#[STARTING SET]$_Cabal Online: Awakening Starting Set for Blader_$4#(Right Click to Use)$" />
-		<msg id="item_desc2388" cont="$37#[STARTING SET]$_Cabal Online: Awakening Starting Set for Blader_$4#(Right Click to Use)$" />
-		<msg id="item_desc2389" cont="$37#[STARTING SET]$_Cabal Online: Awakening Starting Set for Wizard_$4#(Right Click to Use)$" />
-		<msg id="item_desc2390" cont="$37#[STARTING SET]$_Cabal Online: Awakening Starting Set for Wizard_$4#(Right Click to Use)$" />
+		<msg id="item_desc2385" cont="" />
+		<msg id="item_desc2386" cont="" />
+		<msg id="item_desc2387" cont="" />
+		<msg id="item_desc2388" cont="" />
+		<msg id="item_desc2389" cont="" />
+		<msg id="item_desc2390" cont="" />
 		<msg id="item_desc2391" cont="$37#[STARTING SET]$_Cabal Online: Awakening Starting Set for Force Archer_$4#(Right Click to Use)$" />
 		<msg id="item_desc2392" cont="$37#[STARTING SET]$_Cabal Online: Awakening Starting Set for Force Archer_$4#(Right Click to Use)$" />
 		<msg id="item_desc2393" cont="$37#[STARTING SET]$_Cabal Online: Awakening Starting Set for Force Shielder_$4#(Right Click to Use)$" />
@@ -29841,12 +29847,12 @@
 		<msg id="item_desc3316" cont="" />
 		<msg id="item_desc3317" cont="" />
 		<msg id="item_desc3318" cont="Mystery Box with Random Items.\Cosmically Rare_$34#Happy Birthday Ring$\Very Rare_$32#Slot Extender(Ultimate)_$32#Perfect Core(Ultimate)_$32#Armor Option Scroll (Ultimate) SSA_$32#Armor Option Scroll (Ultimate) MSA$_Rare_$42#Chaos Box - Premium Pet Items_$42#Chaos Box - Premium Avatar_$42#Chaos Box - Slot Extender_$42#Chaos Box - Classic Avatar_Common_Potion of Luck (1,000,000)_Upgrade Cores_etc."/>
-		<msg id="item_desc3319" cont="Use Gold Key to Open Mystery Box_$48#[6th]Se7eN.RDR"/>
-		<msg id="item_desc3320" cont="Use Silver Key to Open Mystery Box_$48#[6th]Se7eN.RDR"/>
-		<msg id="item_desc3321" cont="Watch our Streamer to get this key_$48#[6th]Se7eN.RDR"/>
-		<msg id="item_desc3322" cont="Obtain Ticket to open this box from our Streamers.\$34#OFFICIAL STREAMERS$_[C-HTM]DaDdey_[H-STM]Arch_[H-STM]PadrinoRB_[STM]RisTV_[STM]Flash_[STM]WildTV_[STM]Device_[STM]DeinneTV_[STM]BLANK_[STM]Surambaw_[STM]Ticket_[STM]LinAnn_[STM]Hyakura_[STM]PuzzyEater_[STM]VernTV_[STM]Emphemeral"/>
-		<msg id="item_desc3323" cont="Obtain Ticket to open this box from our Streamers.\$34#OFFICIAL STREAMERS$_[C-HTM]DaDdey_[H-STM]Arch_[H-STM]PadrinoRB_[STM]RisTV_[STM]Flash_[STM]WildTV_[STM]Device_[STM]DeinneTV_[STM]BLANK_[STM]Surambaw_[STM]Ticket_[STM]LinAnn_[STM]Hyakura_[STM]PuzzyEater_[STM]VernTV_[STM]Emphemeral"/>
-		<msg id="item_desc3324" cont="Obtain Ticket to open this box from our Streamers.\$34#OFFICIAL STREAMERS$_[C-HTM]DaDdey_[H-STM]Arch_[H-STM]PadrinoRB_[STM]RisTV_[STM]Flash_[STM]WildTV_[STM]Device_[STM]DeinneTV_[STM]BLANK_[STM]Surambaw_[STM]Ticket_[STM]LinAnn_[STM]Hyakura_[STM]PuzzyEater_[STM]VernTV_[STM]Emphemeral"/>
+		<msg id="item_desc3319" cont=""/>
+		<msg id="item_desc3320" cont=""/>
+		<msg id="item_desc3321" cont=""/>
+		<msg id="item_desc3322" cont=""/>
+		<msg id="item_desc3323" cont=""/>
+		<msg id="item_desc3324" cont=""/>
 		<msg id="item_desc3325" cont="Obtain Ticket to open this box from our Streamers.\$34#OFFICIAL STREAMERS$_[C-HTM]DaDdey_[H-STM]Arch_[H-STM]PadrinoRB_[STM]RisTV_[STM]Flash_[STM]WildTV_[STM]Device_[STM]DeinneTV_[STM]BLANK_[STM]Surambaw_[STM]Ticket_[STM]LinAnn_[STM]Hyakura_[STM]PuzzyEater_[STM]VernTV_[STM]Emphemeral"/>
 		<msg id="item_desc3326" cont="Obtain Ticket to open this box from our Streamers.\$34#OFFICIAL STREAMERS$_[C-HTM]DaDdey_[H-STM]Arch_[H-STM]PadrinoRB_[STM]RisTV_[STM]Flash_[STM]WildTV_[STM]Device_[STM]DeinneTV_[STM]BLANK_[STM]Surambaw_[STM]Ticket_[STM]LinAnn_[STM]Hyakura_[STM]PuzzyEater_[STM]VernTV_[STM]Emphemeral"/>
 		<msg id="item_desc3327" cont="" />
@@ -29943,18 +29949,18 @@
 		<msg id="item_desc3418" cont="" />
 		<msg id="item_desc3419" cont="" />
 		<msg id="item_desc3420" cont="" />
-		<msg id="item_desc3421" cont="$47#Alvo$_Arma: A o Negro(Citrino) ou de grau abaixo\Quando carregado em seu invent rio, este item previne que os pergaminhos sejam destru dos no caso de uma grande falha\Seu efeito se aplica automaticamente na Concess o da Op  o. " />
-		<msg id="item_desc3422" cont="$47#Alvo$_Arma: Celestita ~ grau Tit nio Negro\Quando carregado em seu invent rio, este item previne que os pergaminhos sejam destru dos no caso de uma grande falha\Seu efeito se aplica automaticamente na Concess o da Op  o. " />
-		<msg id="item_desc3423" cont="$47#Alvo$_Arma:  smio(Ametista) ~ grau Dragonium\Quando carregado em seu invent rio, este item previne que os pergaminhos sejam destru dos no caso de uma grande falha\Seu efeito se aplica automaticamente na Concess o da Op  o. " />
-		<msg id="item_desc3424" cont="$47#Alvo$_Arma: Mithril/ grau Lycanus\Quando carregado em seu invent rio, este item previne que os pergaminhos sejam destru dos no caso de uma grande falha\Seu efeito se aplica automaticamente na Concess o da Op  o. " />
-		<msg id="item_desc3425" cont="$47#Alvo$_Arma: A o Negro(Aramida) ou abaixo\Quando carregado em seu invent rio, este item previne que os pergaminhos sejam destru dos no caso de uma grande falha\Seu efeito se aplica automaticamente na Concess o da Op  o. " />
-		<msg id="item_desc3426" cont="$47#Alvo$_Arma: Celestita ~ grau Tit nio Negro\Quando carregado em seu invent rio, este item previne que os pergaminhos sejam destru dos no caso de uma grande falha\Seu efeito se aplica automaticamente na Concess o da Op  o. " />
-		<msg id="item_desc3427" cont="$47#Alvo$_Arma:  smio ~ grau Dragonium\Quando carregado em seu invent rio, este item previne que os pergaminhos sejam destru dos no caso de uma grande falha\Seu efeito se aplica automaticamente na Concess o da Op  o. " />
-		<msg id="item_desc3428" cont="$47#Alvo$_Arma:  smio ~ Mithril/Grau Drei Frame\Quando carregado em seu invent rio, este item previne que os pergaminhos sejam destru dos no caso de uma grande falha\Seu efeito se aplica automaticamente na Concess o da Op  o. " />
-		<msg id="item_desc3429" cont="" />
-		<msg id="item_desc3430" cont="$47#Alvo$_Arma: Cart o de Moto Astral - Azul\Quando carregado em seu invent rio, este item previne que os pergaminhos sejam destru dos no caso de uma grande falha\Seu efeito se aplica automaticamente na Concess o da Op  o. " />
-		<msg id="item_desc3431" cont="$47#Alvo$_Arma: Cart o de Moto Astral - RW3\Quando carregado em seu invent rio, este item previne que os pergaminhos sejam destru dos no caso de uma grande falha\Seu efeito se aplica automaticamente na Concess o da Op  o. " />
-		<msg id="item_desc3432" cont="" />
+		<msg id="item_desc3421" cont="Gives a beast's stamina."/>
+		<msg id="item_desc3422" cont="Indulged in madness, ignoring defense and increasing attack power."/>
+		<msg id="item_desc3423" cont="Increases the power of destruction in the sword to increase the attack power."/>
+		<msg id="item_desc3424" cont="Increases excellent evasion and recovery."/>
+		<msg id="item_desc3425" cont="Remove the limit of force ability to increase attack power."/>
+		<msg id="item_desc3426" cont="Gets a shield that blocks enemy attacks with the power of the Force."/>
+		<msg id="item_desc3427" cont="Exercise intuition to increase attack power."/>
+		<msg id="item_desc3428" cont="Haunted and safe from all attacks."/>
+		<msg id="item_desc3429" cont="Gain strong defense like a castle."/>
+		<msg id="item_desc3430" cont="Increases attack power for active defense."/>
+		<msg id="item_desc3431" cont="Unleashes elemental power to increase attack power."/>
+		<msg id="item_desc3432" cont="Acquires a defense effect based on the element's attribute."/>
 		<msg id="item_desc3433" cont="$47#Alvo$_Arma: A o Negro (Citrino) ou de grau abaixo_Armadura: A o Negro (Aramida) ou de grau abaixo\Remove todas as Op  es tions granted to the Item " />
 		<msg id="item_desc3434" cont="$47#Alvo$_Arma: Celestita ~ Tit nio Negro(Aqua) grau_Armadura: Celestita ~ Tit nio Negro_Cart o de Moto astral - Azul\Remove todas as Op  es tions granted to the Item." />
 		<msg id="item_desc3435" cont="$47#Alvo$_Arma: Osmio(Ametista) ~ grau Dragonium_Armadura: Osmio ~ Dragonium_Cart o de Moto Astral - RW3\Remove todas as Op  es tions granted to the Item." />
