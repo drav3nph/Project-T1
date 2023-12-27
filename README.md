@@ -1,8 +1,8 @@
 # Project T1
  adding ep28 skills, class mastery and cloning osmium gears
 
-## Item list added
-### Equipments
+### Item list added
+#### Equipments
 item2738 = Master's CM Osmium Plate (WA)<br>
 item2739 = Master's CM Osmium Plate (FS)<br>
 item2740 = Master's CM Osmium Coat (FB)<br>
@@ -27,7 +27,7 @@ item2758 = Master's CM Osmium Headgear (FB)<br>
 item2759 = Master's CM Osmium Headgear (FA)<br>
 item2760 = Master's CM Osmium Headpiece (BL)<br>
 item2761 = Master's CM Osmium Headpiece (WI)<br>
-### Weapons
+#### Weapons
 item2385 = Master's CM Lapis Orb<br>
 item2386 = Master's CM Lapis Crystal<br>
 item2387 = Master's CM Osmium Katana<br>
