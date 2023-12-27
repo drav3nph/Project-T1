@@ -1,7 +1,7 @@
 # Project T1
  adding ep28 skills, class mastery and cloning osmium gears
 
-### Item list added
+## Item list added
 #### Equipments
 item2738 = Master's CM Osmium Plate (WA)<br>
 item2739 = Master's CM Osmium Plate (FS)<br>
