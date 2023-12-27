@@ -1,2 +1,28 @@
 # Project T1
  adding ep28 skills, class mastery and cloning osmium gears
+
+# Item list
+item2738 = Master's CM Osmium Plate (WA)
+item2739 = Master's CM Osmium Plate (FS)
+item2740 = Master's CM Osmium Coat (FB)
+item2741 = Master's CM Osmium Coat (FA)
+item2742 = Master's CM Osmium Suit (BL)
+item2743 = Master's CM Osmium Suit (WI)
+item2744 = Master's CM Osmium Gauntlet (WA)
+item2745 = Master's CM Osmium Gauntlet (FS)
+item2746 = Master's CM Osmium Gloves (FB)
+item2747 = Master's CM Osmium Gloves (FA)
+item2748 = Master's CM Osmium Hands (BL)
+item2749 = Master's CM Osmium Hands (WI)
+item2750 = Master's CM Osmium Greaves (WA)
+item2751 = Master's CM Osmium Greaves (FS)
+item2752 = Master's CM Osmium Boots (FB)
+item2753 = Master's CM Osmium Boots (FA)
+item2754 = Master's CM Osmium Shoes (BL)
+item2755 = Master's CM Osmium Shoes (WI)
+item2756 = Master's CM Osmium Visor (WA)
+item2757 = Master's CM Osmium Visor (FS)
+item2758 = Master's CM Osmium Headgear (FB)
+item2759 = Master's CM Osmium Headgear (FA)
+item2760 = Master's CM Osmium Headpiece (BL)
+item2761 = Master's CM Osmium Headpiece (WI)
