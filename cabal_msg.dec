@@ -24903,12 +24903,12 @@
 		<msg id="item2382" cont="Aura Transmuter (Re-Pack Aura)" />
 		<msg id="item2383" cont="Japanese Chaos Lamp (Exclusive)" />
 		<msg id="item2384" cont="Chaos Infinity Entry Item" />
-		<msg id="item2385" cont="Master's CM Lapis Orb" />
-		<msg id="item2386" cont="Master's CM Lapis Crystal" />
-		<msg id="item2387" cont="Master's CM Osmium Katana" />
-		<msg id="item2388" cont="Master's CM Osmium Blade" />
-		<msg id="item2389" cont="Master's CM Osmium Daikatana" />
-		<msg id="item2390" cont="Master's CM Osmium Great Sword" />
+		<msg id="item2385" cont="Master's CM Topaz Orb" />
+		<msg id="item2386" cont="Master's CM Topaz Crystal" />
+		<msg id="item2387" cont="Master's CM Redosmium Katana" />
+		<msg id="item2388" cont="Master's CM Redosmium Blade" />
+		<msg id="item2389" cont="Master's CM Redosmium Daikatana" />
+		<msg id="item2390" cont="Master's CM Redosmium Great Sword" />
 		<msg id="item2391" cont="[Empty Box] - Mystic Cube (WI)" />
 		<msg id="item2392" cont="[Empty Box] - Dragonium Cube (WI)" />
 		<msg id="item2393" cont="[Empty Box] - Mithril Cube (WI)" />
