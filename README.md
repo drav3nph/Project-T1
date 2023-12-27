@@ -36,8 +36,7 @@ item2388 = Master's CM Osmium Blade<br>
 item2389 = Master's CM Osmium Daikatana<br>
 item2390 = Master's CM Osmium Great Sword<br>
 
-#### Skillbooks
-##### Class Mastery
+#### Class Mastery - Skill Book
 item3319 = Skill Book (Warrior Mastery Lv.1)<br>
 item3320 = Skill Book (Blader Mastery Lv.1)<br>
 item3321 = Skill Book (Wizard Mastery Lv.1)<br>
@@ -45,7 +44,7 @@ item3322 = Skill Book (Force Archer Mastery Lv.1)<br>
 item3323 = Skill Book (Force Shielder Mastery Lv.1)<br>
 item3324 = Skill Book (Force Blader Mastery Lv.1)<br>
 
-##### EP28 Skills
+#### EP28 Skills - Skill Book
 item3421 = Skill Book (Rhino Toughness)<br>
 item3422 = Skill Book (Frenzy)<br>
 item3423 = Skill Book (Doom's Blade)<br>
