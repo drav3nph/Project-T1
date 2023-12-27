@@ -29,12 +29,12 @@ item2760 = Master's CM Osmium Headpiece (BL)<br>
 item2761 = Master's CM Osmium Headpiece (WI)<br>
 
 #### Weapons
-item2385 = Master's CM Lapis Orb<br>
-item2386 = Master's CM Lapis Crystal<br>
-item2387 = Master's CM Osmium Katana<br>
-item2388 = Master's CM Osmium Blade<br>
-item2389 = Master's CM Osmium Daikatana<br>
-item2390 = Master's CM Osmium Great Sword<br>
+item2385 = Master's CM Topaz Orb<br>
+item2386 = Master's CM Topaz Crystal<br>
+item2387 = Master's CM Redosmium Katana<br>
+item2388 = Master's CM Redosmium Blade<br>
+item2389 = Master's CM Redosmium Daikatana<br>
+item2390 = Master's CM Redosmium Great Sword<br>
 
 #### Class Mastery - Skill Book
 item3319 = Skill Book (Warrior Mastery Lv.1)<br>
