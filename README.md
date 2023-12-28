@@ -1,5 +1,4 @@
 # Project T1
-a freelance service update requested by one of the private servers in CABAL Online.
 - added EP28 skills and class mastery upgrade skills
 - cloning osmium gears and redosmium weapon for craftsman update
 - create custom boss raid called "Kraken" 
