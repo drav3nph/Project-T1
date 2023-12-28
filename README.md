@@ -1,8 +1,10 @@
 # Project T1
- adding ep28 skills, class mastery and cloning osmium gears
-
-## Item list added
-#### Equipments
+a freelance service update requested by one of the private servers in CABAL Online.
+- added EP28 skills and class mastery upgrade skills
+- cloning osmium gears and redosmium weapon for craftsman update
+- create custom boss raid called "Kraken" 
+### List of items added and modification
+---
 item2738 = Master's CM Osmium Plate (WA)<br>
 item2739 = Master's CM Osmium Plate (FS)<br>
 item2740 = Master's CM Osmium Coat (FB)<br>
@@ -28,7 +30,6 @@ item2759 = Master's CM Osmium Headgear (FA)<br>
 item2760 = Master's CM Osmium Headpiece (BL)<br>
 item2761 = Master's CM Osmium Headpiece (WI)<br>
 
-#### Weapons
 item2385 = Master's CM Topaz Orb<br>
 item2386 = Master's CM Topaz Crystal<br>
 item2387 = Master's CM Redosmium Katana<br>
@@ -36,7 +37,6 @@ item2388 = Master's CM Redosmium Blade<br>
 item2389 = Master's CM Redosmium Daikatana<br>
 item2390 = Master's CM Redosmium Great Sword<br>
 
-#### Class Mastery - Skill Book
 item3319 = Skill Book (Warrior Mastery Lv.1)<br>
 item3320 = Skill Book (Blader Mastery Lv.1)<br>
 item3321 = Skill Book (Wizard Mastery Lv.1)<br>
@@ -44,7 +44,6 @@ item3322 = Skill Book (Force Archer Mastery Lv.1)<br>
 item3323 = Skill Book (Force Shielder Mastery Lv.1)<br>
 item3324 = Skill Book (Force Blader Mastery Lv.1)<br>
 
-#### EP28 Skills - Skill Book
 item3421 = Skill Book (Rhino Toughness)<br>
 item3422 = Skill Book (Frenzy)<br>
 item3423 = Skill Book (Doom's Blade)<br>
@@ -57,3 +56,11 @@ item3429 = Skill Book (Shield Castle)<br>
 item3430 = Skill Book (Primitive Defense)<br>
 item3431 = Skill Book (Elemental Discharge)<br>
 item3432 = Skill Book (Elemental Barrier)<br>
+
+### Kraken Custom Boss Raid
+---
+monster1930 = The Kraken<br>
+monster1931 = Kraken Attack<br>
+monster1932 = Kraken Fury<br>
+monster1933 = Kraken Vital<br>
+monster1934 = Kraken Shield<br>
