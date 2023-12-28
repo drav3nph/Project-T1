@@ -32658,11 +32658,11 @@
 		<msg id="monster1927" cont="National Symbol(Capella)"/>
 		<msg id="monster1928" cont="National Symbol(Procyon)"/>
 		<msg id="monster1929" cont="Arcane Golem of Rage"/>
-		<msg id="monster1930" cont="Fortress Guardian(Neutral)"/>
-		<msg id="monster1931" cont="Fortress Guardian(Capella)"/>
-		<msg id="monster1932" cont="Fortress Guardian(Procyon)"/>
-		<msg id="monster1933" cont="Fortress Guardian(Neutral)"/>
-		<msg id="monster1934" cont="Fortress Guardian(Capella)"/>
+		<msg id="monster1930" cont="The Kraken"/>
+		<msg id="monster1931" cont="Kraken Attack"/>
+		<msg id="monster1932" cont="Kraken Fury"/>
+		<msg id="monster1933" cont="Kraken Vital"/>
+		<msg id="monster1934" cont="Kraken Shield"/>
 		<msg id="monster1935" cont="Fortress Guardian(Procyon)"/>
 		<msg id="monster1936" cont="Fortress Guardian(Neutral)"/>
 		<msg id="monster1937" cont="Fortress Guardian(Capella)"/>
